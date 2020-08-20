@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Nefrology App</string>
+    <string name="auth_authorization">Sign In</string>
+    <string name="auth_registration">Sign Up</string>
+    <string name="reg_authorization">Authorization</string>
+    <string name="reg_registration">Create Account</string>
+    <string name="hint_email">email or phone</string>
+    <string name="hint_password">password</string>
+    <string name="account">Account</string>
+    <string name="calculator">Calculator</string>
+    <string name="find_center">Find center</string>
+    <string name="information">Information</string>
+    <string name="logout">Log Out</string>
+    <string name="calc_enter_data">Fill form</string>
+    <string name="choose_gender">Gender</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="race">Race</string>
+    <string name="white_race">First</string>
+    <string name="black_race">Second</string>
+    <string name="age">Age</string>
+    <string name="creatinine_level">Creatinine level</string>
+    <string name="calculate">Calculate</string>
+    <string name="result">Your result</string>
+    <string name="connection_url">http://192.168.42.3:8080</string>
+</resources>

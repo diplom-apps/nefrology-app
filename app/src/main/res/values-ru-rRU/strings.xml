@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Нефролог.pу</string>
+    <string name="auth_authorization">Войти</string>
+    <string name="auth_registration">Регистрация</string>
+    <string name="reg_authorization">Авторизация</string>
+    <string name="reg_registration">Создать аккаунт</string>
+    <string name="hint_email">email или телефон</string>
+    <string name="hint_password">пароль</string>
+    <string name="account">Личный кабинет</string>
+    <string name="calculator">Калькулятор</string>
+    <string name="find_center">Найти центр</string>
+    <string name="information">Информация</string>
+    <string name="logout">Выйти</string>
+    <string name="calc_enter_data">Введите данные для расчета скорости клубочковой фильтрации</string>
+    <string name="choose_gender">Укажите пол</string>
+    <string name="male">Мужской</string>
+    <string name="female">Женский</string>
+    <string name="race">Расовая принадлежность</string>
+    <string name="white_race">Европиоидная</string>
+    <string name="black_race">Негроидная</string>
+    <string name="age">Возраст</string>
+    <string name="creatinine_level">Креатинин (мкмоль/л)</string>
+    <string name="calculate">Получить результат</string>
+    <string name="result">Ваш результат</string>
+    <string name="connection_url">http://192.168.42.3:8080</string>
+</resources>
